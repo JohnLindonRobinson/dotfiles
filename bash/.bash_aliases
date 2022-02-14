@@ -15,3 +15,6 @@ alias gitswitch="~/scripts/gitswitch.sh"
 alias "v."="nvim ."
 alias "vp"="v $currentproject"
 alias "vph"="currentproject=pwd"
+alias ya="youtube-dl -x --audio-format mp3 "
+alias vw="nvim ~/vimwiki/index.wiki"
+alias vimwiki=vw
